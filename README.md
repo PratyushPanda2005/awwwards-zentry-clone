@@ -8,9 +8,7 @@
 - ☺️ Want to know more about GSAP **Let's collaberate🖐🏻.**
 
  <br />
-   
-      <img src="https://github.com/user-attachments/assets/ab600f24-f4d9-4cef-8f1e-3fd9194afb30" alt="Project Banner">
-
+      <img src="https://assets.awwwards.com/awards/submissions/2024/07/66a09331b2ddf457682537.jpg" alt="Project Banner">
   <br />
 
   <div>
