@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nextjs and GSAP.**
 
-- ☺️ If you like this **please drop a like for me.**
+- ☺️ Want to know more about GSAP **Let's collaberate🖐🏻.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
